@@ -47,7 +47,7 @@ Follow these steps to set up the project on your local machine:
 3. Install the required dependencies:
 
    ```sh
-   yarn add 
+   yarn install 
 
    ```
 
