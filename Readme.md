@@ -33,21 +33,21 @@ Follow these steps to set up the project on your local machine:
 1. Clone the repository:
 
    ````sh
-   git clone https://github.com/your-username/3d-portfolio.git```
+   git clone https://github.com/your-username/3d-portfolio.git
 
    ````
 
 2. Navigate to the project directory:
 
-`cd 3d-portfolio`
+````cd 3d-portfolio````
 
 3. Install the required dependencies:
 
-`Code_here`
+````Code_here````
 
 4. Start the development server:
 
-`yarn run dev`
+````yarn run dev````
 
 5. Open your browser and go to `http://localhost:5173` to see the project in action.
 
@@ -61,11 +61,11 @@ Follow these steps to set up the project on your local machine:
 
 # Technologies Used
 
-React.js
-styled-components
-react-scroll (for smooth scrolling)
-WebGL (for 3D visuals)
-... (Add other technologies you used)
+- React.js
+- styled-components
+- react-scroll (for smooth scrolling)
+- WebGL (for 3D visuals)
+<!-- ... (Add other technologies you used) -->
 
 # Contributing
 
