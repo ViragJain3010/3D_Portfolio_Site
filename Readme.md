@@ -32,22 +32,28 @@ Follow these steps to set up the project on your local machine:
 
 1. Clone the repository:
 
-   ````sh
+   ```sh
    git clone https://github.com/your-username/3d-portfolio.git
 
-   ````
+   ```
 
 2. Navigate to the project directory:
 
-````cd 3d-portfolio````
+```sh
+cd 3d-portfolio
+```
 
 3. Install the required dependencies:
 
-````Code_here````
+```sh
+Code_here
+```
 
 4. Start the development server:
 
-````yarn run dev````
+```sh
+yarn run dev
+```
 
 5. Open your browser and go to `http://localhost:5173` to see the project in action.
 
