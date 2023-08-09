@@ -47,14 +47,14 @@ Follow these steps to set up the project on your local machine:
 3. Install the required dependencies:
 
    ```sh
-   yarn install 
+   npm install 
 
    ```
 
 4. Start the development server:
 
    ```sh
-   yarn run dev
+   npm run dev
 
    ```
 5. Open your browser and go to `http://localhost:5173` to see the project in action.
