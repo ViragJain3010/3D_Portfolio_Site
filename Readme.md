@@ -39,22 +39,24 @@ Follow these steps to set up the project on your local machine:
 
 2. Navigate to the project directory:
 
-```sh
-cd 3d-portfolio
-```
+   ```sh
+   cd 3d-portfolio
+
+   ```
 
 3. Install the required dependencies:
 
-```sh
-Code_here
-```
+   ```sh
+   yarn add 
+
+   ```
 
 4. Start the development server:
 
-```sh
-yarn run dev
-```
+   ```sh
+   yarn run dev
 
+   ```
 5. Open your browser and go to `http://localhost:5173` to see the project in action.
 
 # Usage
